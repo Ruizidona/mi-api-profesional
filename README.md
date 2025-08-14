@@ -1,1 +1,1 @@
-Descripciòn del proyecto 
+Descripciòn del proyecto desde local
